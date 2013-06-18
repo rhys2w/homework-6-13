@@ -1,0 +1,117 @@
+body {
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family: helvetica; 
+	background: url(http://images.kaneva.com/filestore7/4032126/4796761/skyUbackground.jpg);
+	background-size: 175%;
+	background-repeat: no-repeat;
+}
+header ul{
+	list-style-type: none;
+}
+a:link {
+	display: inline-block;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-decoration: none;
+	text-align: center;
+	background-color: beige;
+	color: black;
+	width: 120px;
+}
+a:visited {
+	color: black;
+}
+ul li{
+	display: inline;
+	font-size: 18px;
+}
+a:hover {
+	text-decoration: none;
+	background-color: blue;
+	color: white;
+}
+section div > img {
+	float: left;
+	margin-left: 100px
+}
+
+.superheroes {
+	padding-left: 585px;
+	padding-top: 25px;
+	font-size: 50px;
+	font-family: impact;
+	color:red;
+	text-shadow: yellow 2px 2px;
+}
+.are {
+	padding-left: 679px;
+	padding-top: 0px;
+	font-size: 40px;
+	font-family: impact;
+	color: red;
+	text-shadow: yellow 2px 2px;
+}
+.cool {
+	padding-left: 660px;
+	padding-top: 0px;
+	font-size: 50px;
+	font-family: impact;
+	color:red;
+	text-shadow: yellow 2px 2px;
+}
+.p1 {
+	padding-top: 0px;
+	padding-left: 10px;
+	padding-right: 25px;
+
+}
+.p2 {
+	padding-top: 0px;
+	padding-right: 25px;
+	padding-left: 15px;
+	text-align: right;
+}
+.p3 {
+	padding-top: 0px;
+	padding-right: 25px;
+	padding-left: 15px;
+}
+.p1>img {
+	float: left;
+	padding-right: 10px;
+}
+.p2>img {
+	float: right;
+	padding-left: 10px;
+}
+.p3>img {
+	float: left;
+	padding-right: 10px;
+}
+.h2_1 {
+	padding-top: 10px;
+	padding-left: 15px;
+}
+.h2_2 {
+	text-align: right;
+	padding-top: 25px;
+	padding-right: 25px;
+}
+.h2_3 {
+	padding-top: 25px;
+	padding-left: 15px;
+
+}
+article {
+	background-color: white;
+	padding-bottom: 10px;
+	border-radius: 15px;
+	border-color: white;
+	margin-right: 75px;
+	margin-left: 100px;
+
+
+}
